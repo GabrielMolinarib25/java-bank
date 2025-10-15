@@ -25,7 +25,7 @@ public class Main {
 
 
     public static void main(String[] args) {
-        System.out.println("Olá seja bem vindo ao DIO Bank");
+        System.out.println("Olá seja bem vindo ao Nexus Bank");
 
         while (true) {
             System.out.println("Selecione a operação desejada");
